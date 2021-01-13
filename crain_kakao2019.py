@@ -35,5 +35,4 @@ def solution(board, moves):
                         # !! 사라진 인형의 갯수를 출력하는 것이므로, +2가 되어야 함
                         break
                 break
-
     return answer
